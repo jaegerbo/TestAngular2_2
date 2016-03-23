@@ -136,6 +136,7 @@
     </None>
     <Content Include="packages.config" />
     <Content Include="tsconfig.json" />
+    <Content Include="typings.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
